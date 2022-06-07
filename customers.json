@@ -1,1 +1,30 @@
-[{"id":1000,"name":"Vinod","email":"vinod@vinod.co","phone":"9731424784","city":"Bangalore"},{"id":7788,"name":"Shyam","email":"shyam@xmpl.com","phone":"9731424000","city":"Shivamogga"},{"id":7789,"name":"Kiran","email":"kiran@xmpl.com","phone":"9876587654","city":"Vasco"},{"id":7790,"name":"Kishore","email":"kishore@xmpl.com","phone":"9878767654","city":"Vasco"}]
+[
+    {
+        "id": 1000,
+        "name": "Vinod",
+        "email": "vinod@vinod.co",
+        "phone": "9731424784",
+        "city": "Bangalore"
+    },
+    {
+        "id": 7788,
+        "name": "Shyam",
+        "email": "shyam@xmpl.com",
+        "phone": "9731424000",
+        "city": "Shivamogga"
+    },
+    {
+        "id": 7789,
+        "name": "Kiran",
+        "email": "kiran@xmpl.com",
+        "phone": "9876587654",
+        "city": "Vasco"
+    },
+    {
+        "id": 7790,
+        "name": "Kishore",
+        "email": "kishore@xmpl.com",
+        "phone": "9878767654",
+        "city": "Vasco"
+    }
+]
